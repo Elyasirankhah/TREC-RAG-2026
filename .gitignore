@@ -1,0 +1,20 @@
+.env.local
+.env
+.venv/
+__pycache__/
+*.pyc
+.hf_cache/
+runs/cache/bm25/
+runs/cache/phase1_plans/
+runs/cache/phase1_grades/
+runs/cache/umbrela_listwise/
+runs/cache/umbrela_listwise_test/
+runs/cache/citation_support/
+runs/test/pool_texts_phase1_doc.json
+runs/test/*.tsv
+runs/test/umbrela_listwise/
+runs/cache/umbrela/*-test-*.json
+runs/cache/umbrela/generated_sub_narratives_test.json
+final submission/**/*.tsv
+final submission/**/*.jsonl
+trec-rag-data-main/trec-rag-2026/
