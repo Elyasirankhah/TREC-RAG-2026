@@ -13,13 +13,6 @@ This repository contains the Python code needed to run the lab’s ClimbMix retr
 
 ---
 
-## Contributors
-
-- [@Elyasirankhah](https://github.com/Elyasirankhah)
-- [@theunnecessarythings](https://github.com/theunnecessarythings)
-- [@Samah12](https://github.com/Samah12)
-
----
 
 ## What this repo provides
 
