@@ -1,0 +1,3638 @@
+[
+    {
+        "id": "464",
+        "narrative": "I want a thorough understanding of what makes up a community, including its definitions in various contexts like science and what it means to be a 'civilized community.' I'm also interested in related terms like 'grassroots organizations,' how communities set boundaries and priorities, and their roles in important areas such as preparedness and nation-building.",
+        "sub_narratives": [
+            {
+                "text": "definition of a community.",
+                "importance": "vital"
+            },
+            {
+                "text": "What is a community in various contexts, like science?",
+                "importance": "vital"
+            },
+            {
+                "text": "What defines a civilized community?",
+                "importance": "okay"
+            },
+            {
+                "text": "What are grassroots organizations?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do communities set their boundaries?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do communities determine priorities?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is the role of communities in preparedness?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why is community engagement crucial for preparedness?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do communities contribute to nation-building?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "200",
+        "narrative": "I want to deeply understand the Holocaust: what it was, why and how it transpired, who was responsible, and its profound historical and societal impact, particularly on European Jewry. I'm also curious about its conclusion, lasting effects, and how it aligns with other destructive historical events like Sodom and Gomorrah.",
+        "sub_narratives": [
+            {
+                "text": "What was the Holocaust?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why did the Holocaust occur?",
+                "importance": "vital"
+            },
+            {
+                "text": "How was the Holocaust carried out?",
+                "importance": "vital"
+            },
+            {
+                "text": "Who orchestrated the Holocaust?",
+                "importance": "vital"
+            },
+            {
+                "text": "Who was responsible for the holocaust?",
+                "importance": "vital"
+            },
+            {
+                "text": "What was the impact on European Jews?",
+                "importance": "vital"
+            },
+            {
+                "text": "When and how did the Holocaust end?",
+                "importance": "okay"
+            },
+            {
+                "text": "What are the lasting effects of the Holocaust?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does the Holocaust compare to Sodom and Gomorrah?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is the historical significance of the Holocaust?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "narrative": "I'm seeking to understand the environmental and health impacts of e-waste and other waste, along with how proper recycling benefits sustainability and local economies. Could you explain the risks of improper waste management, recent recycling innovations, and practical steps individuals and businesses can take for responsible waste handling?",
+        "sub_narratives": [
+            {
+                "text": "What are the environmental risks of improper e-waste disposal?",
+                "importance": "vital"
+            },
+            {
+                "text": "What health hazards are linked to e-waste exposure?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does improper general waste management affect human health?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does proper recycling support environmental sustainability?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does recycling contribute to local economic growth?",
+                "importance": "okay"
+            },
+            {
+                "text": "What innovations have made recycling more effective recently?",
+                "importance": "okay"
+            },
+            {
+                "text": "What actions can individuals take for responsible e-waste disposal?",
+                "importance": "okay"
+            },
+            {
+                "text": "What can businesses do to manage waste responsibly?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "narrative": "I'm seeking to understand the causes of climate change and global warming, their effects on humanity, the environment, and the economy, and how human actions and natural processes contribute. Additionally, I'd like to learn about global governmental responses and the evidence supporting both the impacts and potential solutions.",
+        "sub_narratives": [
+            {
+                "text": "What causes climate change?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does global warming happen?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do human activities contribute to climate change?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do natural processes contribute to climate change?",
+                "importance": "okay"
+            },
+            {
+                "text": "What are the effects of climate change on humans?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does climate change impact the environment?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does climate change affect the economy?",
+                "importance": "okay"
+            },
+            {
+                "text": "How are governments responding to climate change globally?",
+                "importance": "okay"
+            },
+            {
+                "text": "What evidence exists for the impacts of climate change?",
+                "importance": "okay"
+            },
+            {
+                "text": "What evidence supports potential solutions for climate change?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "233",
+        "narrative": "I'm interested in learning how social media affects mental health, particularly among teenagers. I want to know about both its positive and negative impacts, and understand why it might contribute to depression.",
+        "sub_narratives": [
+            {
+                "text": "How does social media influence teenage mental health?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the negative effects of social media on teenagers?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the positive effects of social media on teenagers?",
+                "importance": "okay"
+            },
+            {
+                "text": "How can social media contribute to depression in teenagers?",
+                "importance": "vital"
+            },
+            {
+                "text": "What mechanisms link social media use and depression?",
+                "importance": "okay"
+            },
+            {
+                "text": "Can social media use lead to mental health disorders in teens?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "58",
+        "narrative": "I'm interested in nuclear energy's pros, cons, safety, and accident risks, like Chernobyl, plus its uses and climate change impact. I also want to compare it to other energy forms like fusion and learn about sources such as bison energy and Peninsula Clean Energy.",
+        "sub_narratives": [
+            {
+                "text": "Key advantages of nuclear energy",
+                "importance": "vital"
+            },
+            {
+                "text": "Main disadvantages of nuclear energy",
+                "importance": "vital"
+            },
+            {
+                "text": "How safe is nuclear energy?",
+                "importance": "vital"
+            },
+            {
+                "text": "Major nuclear accidents and their impacts",
+                "importance": "vital"
+            },
+            {
+                "text": "How nuclear energy affects climate change",
+                "importance": "okay"
+            },
+            {
+                "text": "Common uses of nuclear energy",
+                "importance": "okay"
+            },
+            {
+                "text": "Comparison of nuclear energy and fusion",
+                "importance": "okay"
+            },
+            {
+                "text": "How nuclear energy compares to other energy sources",
+                "importance": "okay"
+            },
+            {
+                "text": "Examples of nuclear energy providers like Bison Energy and Peninsula Clean Energy",
+                "importance": "okay"
+            },
+            {
+                "text": "Is nuclear energy considered renewable?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "499",
+        "narrative": "I'm hoping to understand the arguments for and against legalizing euthanasia, including how it differs from physician-assisted suicide. I'm also interested in how cultural values and Western countries' perspectives influence these debates, and the moral justifications from both sides.",
+        "sub_narratives": [
+            {
+                "text": "What arguments support legalizing euthanasia?",
+                "importance": "vital"
+            },
+            {
+                "text": "What arguments oppose legalizing euthanasia?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does euthanasia differ from physician-assisted suicide?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the moral justifications for euthanasia?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the moral justifications against euthanasia?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do cultural values influence euthanasia debates?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do Western countries view euthanasia?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do Western cultural values affect perspectives on euthanasia?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "161",
+        "narrative": "I want to understand the main arguments surrounding abortion and why people hold such different views on it. I'm also curious how laws, beliefs like the Rapture or political ideologies, and historical changes have shaped abortion rights. Finally, I'd like to learn about current options, such as the abortion pill, and what women's rights groups are prioritizing today.",
+        "sub_narratives": [
+            {
+                "text": "What are the main arguments for and against abortion?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do laws affect access to abortion?",
+                "importance": "vital"
+            },
+            {
+                "text": "How have abortion policies changed over time?",
+                "importance": "vital"
+            },
+            {
+                "text": "What role does the constitution play in abortion rights?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the current medical options for abortion?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why do people have differing views on abortion?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do religious beliefs influence abortion opinions?",
+                "importance": "okay"
+            },
+            {
+                "text": "What impact do political ideologies have on abortion debates?",
+                "importance": "okay"
+            },
+            {
+                "text": "What priorities do women's rights groups have on abortion today?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "300",
+        "narrative": "I'm interested in learning about effective strategies to prevent and reduce global warming and climate change, including specific actions that can help regions like Antarctica. I’d also like to know what global measures can be taken and how the economic costs of addressing global warming compare to just dealing with its impacts.",
+        "sub_narratives": [
+            {
+                "text": "effective strategies to prevent global warming",
+                "importance": "vital"
+            },
+            {
+                "text": "actions to reduce climate change",
+                "importance": "vital"
+            },
+            {
+                "text": "measures to protect Antarctica from climate change",
+                "importance": "okay"
+            },
+            {
+                "text": "key global initiatives against climate change",
+                "importance": "vital"
+            },
+            {
+                "text": "compare economic costs of prevention vs impact",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "66",
+        "narrative": "I want to understand how ethical theories like utilitarianism and Kantianism, along with professional codes, influence decision-making and leadership in organizations and professions such as social work and teaching. How do these ethical standards impact hiring, leadership styles, and personal behavior? I'm also puzzled why ethical people might still make unethical choices.",
+        "sub_narratives": [
+            {
+                "text": "How does utilitarianism guide ethical decision-making?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does Kantianism guide ethical decision-making?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do professional codes influence ethical choices?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do ethical standards influence leadership in organizations?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do ethical standards affect hiring practices?",
+                "importance": "okay"
+            },
+            {
+                "text": "How are ethics applied in social work?",
+                "importance": "okay"
+            },
+            {
+                "text": "How are ethics applied in teaching?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do ethics influence personal behavior at work?",
+                "importance": "okay"
+            },
+            {
+                "text": "Why do ethical individuals sometimes act unethically?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "93",
+        "narrative": "I'm interested in learning how the U.S. Constitution and the Bill of Rights safeguard individual civil liberties, especially through key amendments like the Fourth and Second. I’d like to understand how the Supreme Court interprets these rights and how they relate to national security issues and laws like the Patriot Act.",
+        "sub_narratives": [
+            {
+                "text": "How does the U.S. Constitution protect individual civil liberties?",
+                "importance": "vital"
+            },
+            {
+                "text": "Which rights are guaranteed by the Bill of Rights?",
+                "importance": "vital"
+            },
+            {
+                "text": "What protections does the Fourth Amendment provide?",
+                "importance": "vital"
+            },
+            {
+                "text": "What rights does the Second Amendment secure?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does the Supreme Court interpret the Fourth Amendment?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does the Supreme Court interpret the Second Amendment?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do laws like the Patriot Act affect constitutional rights?",
+                "importance": "okay"
+            },
+            {
+                "text": "How are civil liberties balanced with national security?",
+                "importance": "okay"
+            },
+            {
+                "text": "What restrictions can be placed on individual rights under the Constitution?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "72",
+        "narrative": "I want to understand why deforestation is such a major problem. Specifically, how does it impact the environment, climate, animals, and humans? Could you also explain its main causes, effects on rainforests like the Amazon, and what actions can prevent it?",
+        "sub_narratives": [
+            {
+                "text": "What is deforestation?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the main causes of deforestation?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does deforestation impact the environment?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does deforestation affect the climate?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does deforestation affect animals?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does deforestation impact humans?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the effects of deforestation on the Amazon rainforest?",
+                "importance": "okay"
+            },
+            {
+                "text": "What actions can help prevent deforestation?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "narrative": "I'm interested in sports' societal impact, particularly concerning athlete compensation, inclusion, cultural influence, and the business side. I also want to understand how evolving equipment, training, and mindset shape both athletes and the popularity of different sports.",
+        "sub_narratives": [
+            {
+                "text": "Societal impact of sports",
+                "importance": "vital"
+            },
+            {
+                "text": "Athlete compensation issues",
+                "importance": "vital"
+            },
+            {
+                "text": "Business influences in sports",
+                "importance": "vital"
+            },
+            {
+                "text": "Sports and cultural influence",
+                "importance": "vital"
+            },
+            {
+                "text": "Inclusion in sports",
+                "importance": "vital"
+            },
+            {
+                "text": "Advancements in sports equipment",
+                "importance": "okay"
+            },
+            {
+                "text": "Innovations in athlete training",
+                "importance": "okay"
+            },
+            {
+                "text": "Role of athlete mindset changes",
+                "importance": "okay"
+            },
+            {
+                "text": "How equipment affects sport popularity",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "502",
+        "narrative": "I'm exploring how artificial intelligence is transforming our world and everyday lives, from its generative capabilities to how the workforce is adapting. I'm particularly interested in both the benefits and the potential risks AI brings to sectors like education and the arts.",
+        "sub_narratives": [
+            {
+                "text": "How is AI transforming daily life?",
+                "importance": "vital"
+            },
+            {
+                "text": "How are AI's generative capabilities helping our world?",
+                "importance": "vital"
+            },
+            {
+                "text": "How is the workforce adapting to AI?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the benefits of AI in education?",
+                "importance": "vital"
+            },
+            {
+                "text": "What risks does AI bring to education?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does AI impact the arts sector?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the potential risks of AI in the arts?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "narrative": "I'm hoping to grasp the intricacies of different healthcare systems, particularly what drives their accessibility, cost, and the fundamental debate around healthcare as a right versus a privilege. Can you explain the main factors affecting healthcare delivery, equity, and expenses, and suggest ways to improve health outcomes for everyone?",
+        "sub_narratives": [
+            {
+                "text": "What factors affect healthcare accessibility?",
+                "importance": "vital"
+            },
+            {
+                "text": "What drives rising healthcare costs?",
+                "importance": "vital"
+            },
+            {
+                "text": "Is healthcare considered a right or a privilege?",
+                "importance": "vital"
+            },
+            {
+                "text": "What impacts healthcare equity?",
+                "importance": "vital"
+            },
+            {
+                "text": "What impacts healthcare delivery?",
+                "importance": "vital"
+            },
+            {
+                "text": "What impacts healthcare expenses?",
+                "importance": "vital"
+            },
+            {
+                "text": "How can universal health outcomes be improved?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "388",
+        "narrative": "I'm looking to get a thorough understanding of the tax system—how it operates, the reasons behind different tax types, and its effects on the economy and society. I'm also curious about personal tax matters like switching regimes, state-by-state differences, and questions of fairness, especially when it comes to taxing the wealthy.",
+        "sub_narratives": [
+            {
+                "text": "How the tax system operates",
+                "importance": "vital"
+            },
+            {
+                "text": "Purpose of different tax types",
+                "importance": "vital"
+            },
+            {
+                "text": "Economic impact of taxation",
+                "importance": "vital"
+            },
+            {
+                "text": "Social impact of taxation",
+                "importance": "vital"
+            },
+            {
+                "text": "How to switch between tax regimes",
+                "importance": "vital"
+            },
+            {
+                "text": "Variations in tax laws by state",
+                "importance": "vital"
+            },
+            {
+                "text": "Fairness of taxing the wealthy",
+                "importance": "vital"
+            },
+            {
+                "text": "Differences in tax burden across regions",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "221",
+        "narrative": "I want to understand what makes a business and its management truly successful. This includes grasping the roles of managers and entrepreneurs, minimizing risks and costs, and the importance of quality control and employee empowerment. I'm also curious how micromanagement, strategic management, and stewardship influence business performance and workplace motivation.",
+        "sub_narratives": [
+            {
+                "text": "Key factors for business and its management success",
+                "importance": "vital"
+            },
+            {
+                "text": "Roles of managers in business",
+                "importance": "vital"
+            },
+            {
+                "text": "Roles of entrepreneurs in business",
+                "importance": "vital"
+            },
+            {
+                "text": "Methods to minimize business risks",
+                "importance": "okay"
+            },
+            {
+                "text": "Ways to minimize business costs",
+                "importance": "okay"
+            },
+            {
+                "text": "Importance of quality control",
+                "importance": "okay"
+            },
+            {
+                "text": "Significance of employee empowerment",
+                "importance": "okay"
+            },
+            {
+                "text": "Effects of micromanagement on business",
+                "importance": "okay"
+            },
+            {
+                "text": "Influence of strategic management",
+                "importance": "okay"
+            },
+            {
+                "text": "Role of stewardship in business and workplace motivation",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "360",
+        "narrative": "I'm looking into the fall of the Western Roman Empire and want to understand the main reasons behind its collapse. I'm especially interested in both the internal political and social problems, as well as external factors like barbarian migrations and the impact of Rome's expansion.",
+        "sub_narratives": [
+            {
+                "text": "Main reasons for Western Roman Empire's collapse",
+                "importance": "vital"
+            },
+            {
+                "text": "Internal political problems in the Western Roman Empire",
+                "importance": "vital"
+            },
+            {
+                "text": "Major social problems within the Western Roman Empire",
+                "importance": "vital"
+            },
+            {
+                "text": "Barbarian migrations' role in the empire's fall",
+                "importance": "okay"
+            },
+            {
+                "text": "Effect of territorial expansion on Rome's stability",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "49",
+        "narrative": "I'm researching the American Civil War and want to understand its main causes, the key events that led to its outbreak and conclusion, and the objectives of both sides. I'm also interested in the roles played by different soldiers and the war's lasting social and economic effects.",
+        "sub_narratives": [
+            {
+                "text": "What were the primary causes of the American Civil War?",
+                "importance": "vital"
+            },
+            {
+                "text": "What major events led to the outbreak of the Civil War?",
+                "importance": "vital"
+            },
+            {
+                "text": "What were the objectives of the Union during the Civil War?",
+                "importance": "vital"
+            },
+            {
+                "text": "What were the objectives of the Confederacy during the Civil War?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did the American Civil War conclude?",
+                "importance": "vital"
+            },
+            {
+                "text": "What roles did different soldiers have in the Civil War?",
+                "importance": "okay"
+            },
+            {
+                "text": "What were the lasting social effects of the Civil War?",
+                "importance": "okay"
+            },
+            {
+                "text": "What were the lasting economic effects of the Civil War?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "85",
+        "narrative": "I'm looking into how burning fossil fuels affects the environment, especially in terms of climate change, greenhouse gas emissions, and issues like more frequent wildfires. I'm also interested in understanding the benefits people associate with fossil fuels, the arguments against banning them, and how renewable energy could serve as an alternative.",
+        "sub_narratives": [
+            {
+                "text": "How does burning fossil fuels contribute to climate change?",
+                "importance": "vital"
+            },
+            {
+                "text": "What greenhouse gases are released by fossil fuel combustion?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does fossil fuel use increase environmental pollution?",
+                "importance": "vital"
+            },
+            {
+                "text": "Are fossil fuels linked to more frequent wildfires?",
+                "importance": "okay"
+            },
+            {
+                "text": "What benefits do people associate with fossil fuels?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are common arguments against banning fossil fuels?",
+                "importance": "vital"
+            },
+            {
+                "text": "How can renewable energy serve as an alternative to fossil fuels?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "narrative": "I'm exploring how social media affects both society and individuals, with a special focus on young people. I'm interested in its positive and negative impacts, such as addiction and body image issues, as well as its influence on marketing and communication.",
+        "sub_narratives": [
+            {
+                "text": "How does social media influence society overall?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the main effects of social media on young people?",
+                "importance": "vital"
+            },
+            {
+                "text": "What positive outcomes result from social media use?",
+                "importance": "vital"
+            },
+            {
+                "text": "What negative outcomes result from social media use?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does social media contribute to addiction?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does social media affect body image perceptions?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does social media shape marketing practices?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does social media change communication patterns?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "203",
+        "narrative": "I'm looking for detailed information on the death penalty, including its legal basis, the main arguments for and against it, and ethical concerns. I also want to know about its effectiveness as a deterrent, its financial and societal impacts, and why the process tends to be slow.",
+        "sub_narratives": [
+            {
+                "text": "Legal foundation of the death penalty",
+                "importance": "vital"
+            },
+            {
+                "text": "Main arguments supporting the death penalty",
+                "importance": "vital"
+            },
+            {
+                "text": "Main arguments opposing the death penalty",
+                "importance": "vital"
+            },
+            {
+                "text": "Ethical issues related to the death penalty",
+                "importance": "vital"
+            },
+            {
+                "text": "Effectiveness of the death penalty in deterring crime",
+                "importance": "okay"
+            },
+            {
+                "text": "Financial impact of implementing the death penalty",
+                "importance": "okay"
+            },
+            {
+                "text": "Societal consequences of the death penalty",
+                "importance": "okay"
+            },
+            {
+                "text": "Factors causing delays in the death penalty process",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "47",
+        "narrative": "I'm seeking to understand domestic abuse, covering its causes, prevalence, and inherent complexities. This includes why victims remain in abusive relationships and its varying impacts on women, children, and the elderly. I also want to grasp how societal attitudes, laws, and historical context influence both the violence itself and its reporting.",
+        "sub_narratives": [
+            {
+                "text": "What are the main causes of domestic abuse?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why do victims remain in abusive relationships?",
+                "importance": "vital"
+            },
+            {
+                "text": "How common is domestic abuse across populations?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does domestic abuse affect women?",
+                "importance": "okay"
+            },
+            {
+                "text": "What are the impacts of domestic abuse on children?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does domestic abuse affect the elderly?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do societal attitudes shape domestic abuse?",
+                "importance": "okay"
+            },
+            {
+                "text": "What role do laws play in abuse reporting?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does historical context influence domestic abuse?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "46",
+        "narrative": "I'm researching the economic, business, housing, and well-being impacts of major disasters like COVID-19 and Hurricane Katrina. How did organizations, industries, and communities adapt to these challenges? And what changes have emerged in management, education, and technology since then?",
+        "sub_narratives": [
+            {
+                "text": "Economic effects of major disasters",
+                "importance": "vital"
+            },
+            {
+                "text": "Business impacts of disasters like COVID-19",
+                "importance": "vital"
+            },
+            {
+                "text": "Business impacts of disasters like Hurricane Katrina",
+                "importance": "vital"
+            },
+            {
+                "text": "Housing market response to disasters",
+                "importance": "vital"
+            },
+            {
+                "text": "Community well-being after major disasters",
+                "importance": "vital"
+            },
+            {
+                "text": "Organizational adaptation strategies to disasters",
+                "importance": "vital"
+            },
+            {
+                "text": "Industry-specific responses to disasters",
+                "importance": "okay"
+            },
+            {
+                "text": "Management changes following disasters",
+                "importance": "okay"
+            },
+            {
+                "text": "Educational system shifts after disasters",
+                "importance": "okay"
+            },
+            {
+                "text": "Technological developments since major disasters",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "56",
+        "narrative": "I'm interested in understanding the Cold War's causes, key events, and its end. I also want to explore its ongoing impact on today's society and global politics. Additionally, how did factors like propaganda, the Space Race, and economic initiatives such as the Marshall Plan influence this conflict and its legacy?",
+        "sub_narratives": [
+            {
+                "text": "What were the primary causes of the Cold War?",
+                "importance": "vital"
+            },
+            {
+                "text": "What events marked the beginning and end of the Cold War?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did propaganda shape perceptions during the Cold War?",
+                "importance": "okay"
+            },
+            {
+                "text": "How did the Space Race affect Cold War dynamics?",
+                "importance": "okay"
+            },
+            {
+                "text": "What was the impact of the Marshall Plan on the Cold War?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does the Cold War continue to influence global politics?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the effects of the Cold War on today's society?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did economic strategies influence the outcome of the Cold War?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "258",
+        "narrative": "I'm interested in a thorough summary of the Russia-Ukraine war, including how it started and the latest developments, such as possible offensives. I also want to know why tanks are playing a less prominent role on the battlefield.",
+        "sub_narratives": [
+            {
+                "text": "How did the Russia-Ukraine war begin?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the main causes of the conflict?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the latest major developments in the war?",
+                "importance": "vital"
+            },
+            {
+                "text": "Are any new offensives currently underway or planned?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why are tanks less prominent in recent battles?",
+                "importance": "vital"
+            },
+            {
+                "text": "What new military tactics are being used?",
+                "importance": "okay"
+            },
+            {
+                "text": "How has the war affected civilian life?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "182",
+        "narrative": "I'm interested in understanding what truly motivates people, how this shapes our actions and learning, and its connection to character motivation in storytelling. Could you also explain key motivational theories, related terms, and how attitudes and self-satisfaction influence both personal growth and our experiences in the digital world?",
+        "sub_narratives": [
+            {
+                "text": "What motivates people?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does motivation shape actions and learning?",
+                "importance": "vital"
+            },
+            {
+                "text": "Which major theories explain motivation?",
+                "importance": "vital"
+            },
+            {
+                "text": "What factors influence motivation to learn?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do attitudes affect personal growth?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does self-satisfaction relate to motivation?",
+                "importance": "okay"
+            },
+            {
+                "text": "What are key terms related to motivation?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does motivation appear in storytelling characters?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do attitudes shape digital world experiences?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "23",
+        "narrative": "I want to fully understand World War I and World War II, including their main causes, how they unfolded, and their major global impacts. I'm also interested in the role of technology, reasons for the high casualties, whether World War II was justified, and how both wars shaped society overall.",
+        "sub_narratives": [
+            {
+                "text": "What were the main causes of World War I?",
+                "importance": "vital"
+            },
+            {
+                "text": "What were the main causes of World War II?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did World War I progress from beginning to end?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did World War II progress from beginning to end?",
+                "importance": "vital"
+            },
+            {
+                "text": "What were the major global impacts of both wars?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did technology affect World War I and II?",
+                "importance": "okay"
+            },
+            {
+                "text": "What factors led to high casualties in both wars?",
+                "importance": "okay"
+            },
+            {
+                "text": "How did World War I and II change societies?",
+                "importance": "okay"
+            },
+            {
+                "text": "What arguments exist for and against the justification of World War II?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "129",
+        "narrative": "I'm curious to understand how various pollutants, like air and plastic, affect the environment, human health, and the economy. Could you also explain the root causes and consequences of pollution, and what governments are doing, particularly for vulnerable communities facing poor water access or toxic air?",
+        "sub_narratives": [
+            {
+                "text": "What are the main types of pollution?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the root causes of pollution?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does air pollution affect the environment?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does plastic pollution affect the environment?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the health effects of air pollution?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the health effects of plastic pollution?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does pollution impact the economy?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the consequences of pollution for vulnerable communities?",
+                "importance": "okay"
+            },
+            {
+                "text": "What actions are governments taking to reduce pollution?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "592",
+        "narrative": "I'm interested in learning about crime, including why people commit crimes and how deviant behavior differs from criminal acts. I also want to understand the effects of crime on individuals and society, as well as explore strategies for reducing crime and the influence of cultural factors.",
+        "sub_narratives": [
+            {
+                "text": "Reasons people commit crimes",
+                "importance": "vital"
+            },
+            {
+                "text": "Difference between deviant behavior and crime",
+                "importance": "vital"
+            },
+            {
+                "text": "Impact of crime on individuals",
+                "importance": "vital"
+            },
+            {
+                "text": "Impact of crime on society",
+                "importance": "okay"
+            },
+            {
+                "text": "Strategies to reduce crime",
+                "importance": "vital"
+            },
+            {
+                "text": "Role of cultural factors in crime",
+                "importance": "vital"
+            },
+            {
+                "text": "Effectiveness of crime prevention methods",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "narrative": "I aim to understand the Vietnam War's causes, controversies, and overall impact, specifically why it started and the US's involvement. I'm also interested in how it affected different groups in America and Vietnam, and the various protest movements. Finally, I want to explore its cultural and economic aftermath, and how the war is remembered today.",
+        "sub_narratives": [
+            {
+                "text": "What were the main causes of the Vietnam War?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why did the United States become involved in the Vietnam War?",
+                "importance": "vital"
+            },
+            {
+                "text": "What were the main controversies surrounding the Vietnam War?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did the Vietnam War affect civilians in Vietnam?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did the Vietnam War impact American society?",
+                "importance": "vital"
+            },
+            {
+                "text": "What protest movements emerged in response to the Vietnam War?",
+                "importance": "okay"
+            },
+            {
+                "text": "What were the cultural consequences of the Vietnam War?",
+                "importance": "okay"
+            },
+            {
+                "text": "What was the economic aftermath of the Vietnam War?",
+                "importance": "okay"
+            },
+            {
+                "text": "How is the Vietnam War remembered or commemorated today?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "588",
+        "narrative": "I'm interested in how technology is transforming healthcare and improving health outcomes, especially concerning health equity and access. Could you also elaborate on how environmental hazards, planned obsolescence, and trace elements impact healthcare systems and contribute to health risks?",
+        "sub_narratives": [
+            {
+                "text": "How is technology changing healthcare delivery?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does technology influence health outcomes?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does technology affect health equity?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does technology improve healthcare access?",
+                "importance": "vital"
+            },
+            {
+                "text": "What environmental hazards pose health risks?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do environmental hazards affect healthcare systems?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is planned obsolescence in healthcare devices?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does planned obsolescence raise health risks?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do trace elements impact health?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "100",
+        "narrative": "I'm trying to understand the various forms of discrimination and oppression people experience in the US, such as racial, gender, age, and housing. Can you explain their prevalence, how they affect individuals and society, and what laws or actions are in place to address them?",
+        "sub_narratives": [
+            {
+                "text": "Major forms of discrimination in the US",
+                "importance": "vital"
+            },
+            {
+                "text": "How common is racial discrimination",
+                "importance": "okay"
+            },
+            {
+                "text": "How common is gender discrimination",
+                "importance": "okay"
+            },
+            {
+                "text": "How common is age discrimination",
+                "importance": "okay"
+            },
+            {
+                "text": "How common is housing discrimination",
+                "importance": "okay"
+            },
+            {
+                "text": "Effects of discrimination on individuals",
+                "importance": "vital"
+            },
+            {
+                "text": "Effects of discrimination on society",
+                "importance": "vital"
+            },
+            {
+                "text": "Laws and policies against discrimination",
+                "importance": "vital"
+            },
+            {
+                "text": "Actions taken to reduce discrimination",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "582",
+        "narrative": "I want to understand aging comprehensively: how it affects us, why we die of old age, and its impact on Americans, including what defines an \"aging category.\" I'm also curious how cultural factors like the social clock and nostalgia relate to this process, and if anyone has ever defied its natural progression.",
+        "sub_narratives": [
+            {
+                "text": "What defines an aging category?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why do people die of old age?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does aging affect individuals?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is the impact of aging on American society?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does the social clock shape perceptions of aging?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does nostalgia relate to the aging process?",
+                "importance": "okay"
+            },
+            {
+                "text": "Has anyone ever defied the natural aging process?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "125",
+        "narrative": "I want to understand the pros and cons of economic and political systems like capitalism, socialism, and communism. I'm also curious how they compare, relate to issues such as universal healthcare, globalization, and immigration, and affect people's lives. This includes their impact from the Industrial Revolution to modern contexts like living in Virginia.",
+        "sub_narratives": [
+            {
+                "text": "What are the main pros and cons of economic and political systems like capitalism?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the main pros and cons of economic and political systems like socialism?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the main pros and cons of economic and political systems like communism?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do capitalism, socialism, and communism differ?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do they relate to universal healthcare?",
+                "importance": "okay"
+            },
+            {
+                "text": "How have these systems shaped immigration and globalization?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do they affect people's lives?",
+                "importance": "okay"
+            },
+            {
+                "text": "How did the Industrial Revolution influence these systems?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does living in Virginia impact these systems?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "188",
+        "narrative": "I'm trying to understand why students and others are protesting at colleges like Columbia and in France, what core issues drive these movements, and whether outside figures such as George Soros are involved. Furthermore, I need to know how the First Amendment applies to campus demonstrations, why non-violent ones sometimes escalate to violence, and the ultimate impact these events will have on universities.",
+        "sub_narratives": [
+            {
+                "text": "Why students and others are protesting at colleges like Columbia and in France?",
+                "importance": "vital"
+            },
+            {
+                "text": "What core issues motivate student protests?",
+                "importance": "vital"
+            },
+            {
+                "text": "Is George Soros involved in organizing the protests?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does the First Amendment apply to campus demonstrations?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why do non-violent campus protests escalate to violence?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the major impacts of these protests on universities?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "191",
+        "narrative": "I'm researching marijuana, focusing on its history of illegality and its current legal status across the U.S., especially in terms of medical and recreational use, with particular attention to Texas. I also want to learn about the arguments for and against legalization, as well as information on addiction and misuse.",
+        "sub_narratives": [
+            {
+                "text": "What is the history of marijuana's illegality in the U.S.?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is the current federal legal status of marijuana?",
+                "importance": "vital"
+            },
+            {
+                "text": "Which U.S. states allow medical marijuana use?",
+                "importance": "vital"
+            },
+            {
+                "text": "Which U.S. states allow recreational marijuana use?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is the legal status of marijuana in Texas?",
+                "importance": "okay"
+            },
+            {
+                "text": "What are main arguments for marijuana legalization?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are main arguments against marijuana legalization?",
+                "importance": "vital"
+            },
+            {
+                "text": "How common is marijuana addiction?",
+                "importance": "okay"
+            },
+            {
+                "text": "What are typical reasons for marijuana misuse?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "48",
+        "narrative": "I'd like to understand the major factors leading to the Soviet Union's collapse, and how its government and society changed under leaders like Stalin and Gorbachev. I'm also interested in how its relationships with countries such as the U.S. and Germany evolved. Finally, how did Soviet policies impact both its own people and international events during the 20th century?",
+        "sub_narratives": [
+            {
+                "text": "What were the main causes of the Soviet Union's collapse?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did Stalin and Gorbachev's leadership change Soviet government and society?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did Soviet relations with the United States evolve?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did Soviet relations with Germany change over time?",
+                "importance": "okay"
+            },
+            {
+                "text": "How did Soviet policies affect its own population?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did Soviet policies influence international affairs during the 20th century?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "53",
+        "narrative": "I'm curious about how religion and spirituality shape individuals and society, from personal growth and health to identity and responses to suffering. I also want to learn how faith relates to reason, and explore specific religious concepts, groups, and well-known spiritual books.",
+        "sub_narratives": [
+            {
+                "text": "How do religion and spirituality influence personal growth?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does faith relate to reason?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do religions and spirituality address human suffering?",
+                "importance": "vital"
+            },
+            {
+                "text": "How is religion and spirituality connected to health and well-being?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does religion and spirituality influence identity formation?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do religion and spirituality shape societal norms?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are important religious or spiritual concepts?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do religious groups operate?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is the significance of spiritual or religious books?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "narrative": "I'm curious about how women's roles, rights, and experiences have changed globally through history, particularly during World Wars and social movements. What factors influenced these shifts, what challenges did women face, and how do leadership, education, and intersectionality still shape their lives?",
+        "sub_narratives": [
+            {
+                "text": "How have women's roles evolved globally through history?",
+                "importance": "vital"
+            },
+            {
+                "text": "How have women's rights evolved globally through history?",
+                "importance": "vital"
+            },
+            {
+                "text": "How have women's experiences evolved globally through history?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did World Wars change women's roles and rights?",
+                "importance": "vital"
+            },
+            {
+                "text": "What major challenges have women faced across history?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did social movements impact women's rights?",
+                "importance": "vital"
+            },
+            {
+                "text": "What factors influenced these shifts?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does intersectionality affect women's experiences today?",
+                "importance": "okay"
+            },
+            {
+                "text": "What role has education played in women's lives?",
+                "importance": "okay"
+            },
+            {
+                "text": "How has women's participation in leadership changed?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "147",
+        "narrative": "I'm trying to grasp different government forms like democracy, monarchy, oligarchy, and dictatorship, comparing their efficiency and leadership. I'm also keen to understand democracy's evolution, why it's often considered ideal, and how political systems, such as Iceland's, differ.",
+        "sub_narratives": [
+            {
+                "text": "How do democracy, monarchy, oligarchy, and dictatorship compare in leadership?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do democracy, monarchy, oligarchy, and dictatorship compare in efficiency?",
+                "importance": "vital"
+            },
+            {
+                "text": "How has democracy evolved over time?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why is democracy often considered ideal?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does Iceland's political system differ from others?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "497",
+        "narrative": "I'm interested in understanding how global warming, invasive species, and the loss of crucial animals like bees or mosquitoes impact ecosystems and wildlife. I also want to know how conservation laws and individual actions can help protect these environments.",
+        "sub_narratives": [
+            {
+                "text": "How does global warming affect ecosystems and wildlife?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do invasive species impact ecosystems and wildlife?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the effects of losing crucial pollinators like bees?",
+                "importance": "vital"
+            },
+            {
+                "text": "What happens to ecosystems if mosquitoes disappear?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does the extinction of key animal species affect ecosystems?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do conservation laws protect environments?",
+                "importance": "vital"
+            },
+            {
+                "text": "How can individuals help protect the environment?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "426",
+        "narrative": "I'm exploring the key factors for job satisfaction and career growth, especially within hospitality and restaurant settings. Could you explain how work environment, atmosphere, and fulfillment impact career advancement, and what makes certain workplaces, like Nucor, uniquely successful?",
+        "sub_narratives": [
+            {
+                "text": "What factors drive job satisfaction in hospitality and restaurant settings?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are key factors of career growth in hospitality and restaurant settings?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does work environment affect career advancement?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does workplace atmosphere impact career advancement?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does employee fulfillment contribute to career growth?",
+                "importance": "vital"
+            },
+            {
+                "text": "What makes Nucor's workplace particularly successful?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "183",
+        "narrative": "I want to understand crime's main causes, how the justice system addresses it, and its fairness. I'm also curious how public perception, criminological research, plea bargaining, and organized crime influence both justice and crime rates.",
+        "sub_narratives": [
+            {
+                "text": "What are the main causes of crime?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does the justice system respond to crime?",
+                "importance": "vital"
+            },
+            {
+                "text": "Is the justice system fair?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does public perception affect justice and crime rates?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does criminological research inform justice and crime rates?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does plea bargaining impact justice and crime rates?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does organized crime affect justice and crime rates?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "372",
+        "narrative": "I'm trying to understand drug policy history, specifically why certain drugs are illegal and how public attitudes, companies, and governments have shaped it. I also want to explore the historical and societal impact of drug abuse and trade, along with the roles of organizations like Narcotics Anonymous.",
+        "sub_narratives": [
+            {
+                "text": "Why are certain drugs illegal?",
+                "importance": "vital"
+            },
+            {
+                "text": "How have drug policies evolved over time?",
+                "importance": "vital"
+            },
+            {
+                "text": "How have public attitudes influenced drug legislation?",
+                "importance": "vital"
+            },
+            {
+                "text": "What role have companies played in shaping drug laws?",
+                "importance": "okay"
+            },
+            {
+                "text": "How have governments contributed to drug policy decisions?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the societal impacts of drug abuse?",
+                "importance": "vital"
+            },
+            {
+                "text": "How has the illegal drug trade affected societies?",
+                "importance": "okay"
+            },
+            {
+                "text": "What role does Narcotics Anonymous play in addressing drug abuse?",
+                "importance": "okay"
+            },
+            {
+                "text": "How has drug abuse historically impacted communities?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "333",
+        "narrative": "I'm fascinated by how scientific progress shapes culture, politics, and our beliefs, as well as how society, in turn, responds to these advancements. I want to explore the ways different societies throughout history have interacted with and been influenced by science.",
+        "sub_narratives": [
+            {
+                "text": "How does scientific progress shape cultural beliefs?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do societies respond to new scientific advancements?",
+                "importance": "vital"
+            },
+            {
+                "text": "How have different societies interacted with science through history?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does science influence political systems?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does science influence our beliefs?",
+                "importance": "vital"
+            },
+            {
+                "text": "What cultural factors can influence scientific development?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do societal beliefs affect acceptance of scientific ideas?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "1001",
+        "narrative": "I'm interested in learning how human activities influence the climate system, especially regarding rising carbon dioxide levels and temperatures. I want to understand how these changes affect living organisms, as well as their impact on oceans and desert environments.",
+        "sub_narratives": [
+            {
+                "text": "How do human activities contribute to climate system?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does rising carbon dioxide affect Earth's climate?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does increased temperature influence climate system?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does climate change impact living organisms?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the effects of climate change on oceans?",
+                "importance": "vital"
+            },
+            {
+                "text": "How are desert environments affected by climate change?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "889",
+        "narrative": "I'm looking to understand how financial markets work, especially what causes changes in fiat currency values and why they're sensitive to economic shifts. I also want to know how currency fluctuations affect companies like Heineken, the limitations of using fundamental analysis to predict forex movements, and the broader financial impact of the treasury market.",
+        "sub_narratives": [
+            {
+                "text": "What causes changes in fiat currency values?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why are fiat currencies affected by economic shifts?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the limitations of fundamental analysis for predicting forex movements?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do currency fluctuations impact international companies like Heineken?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is the function of the treasury market in the financial system?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "988",
+        "narrative": "I'm looking into the complex issue of immigration, particularly the challenges surrounding illegal immigration and the struggles immigrants encounter in the US. I'm also interested in how sanctuary cities add further complications to the overall immigration landscape.",
+        "sub_narratives": [
+            {
+                "text": "What challenges do immigrants face in the US?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the main issues with illegal immigration?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do sanctuary cities affect immigration laws?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do sanctuary cities complicate immigration enforcement?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "598",
+        "narrative": "I'm seeking to understand cyberbullying—what it is, its prevalence, and why girls might be more affected than boys. Additionally, I'd like to learn about its mental health impacts, potential consequences, and how to prevent it.",
+        "sub_narratives": [
+            {
+                "text": "What is cyberbullying?",
+                "importance": "vital"
+            },
+            {
+                "text": "How prevalent is cyberbullying?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why might girls experience more cyberbullying than boys?",
+                "importance": "vital"
+            },
+            {
+                "text": "What mental health effects can cyberbullying have?",
+                "importance": "vital"
+            },
+            {
+                "text": "What other consequences can result from cyberbullying?",
+                "importance": "okay"
+            },
+            {
+                "text": "How can we prevent cyberbullying?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "149",
+        "narrative": "I'm curious about the illegality of activities like prostitution, organ selling, and insider trading. How do these laws connect to broader issues such as human and drug trafficking? Specifically, could you explain human trafficking's contributing factors, its societal impact, and how law enforcement and policy address it, globally and in the US?",
+        "sub_narratives": [
+            {
+                "text": "Why is prostitution illegal?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why is organ selling illegal?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why is insider trading illegal?",
+                "importance": "vital"
+            },
+            {
+                "text": "How is human trafficking linked to these illegal activities?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are main causes of human trafficking?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is the societal impact of human trafficking?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do law enforcement combat human trafficking globally?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do policies address human trafficking globally?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do law enforcement combat human trafficking in the US?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do policies address human trafficking in the US?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "144",
+        "narrative": "I'm seeking a comprehensive understanding of financial institutions, specifically why banks like Silicon Valley Bank fail and the hidden risks investors face. Could you detail how banks and credit unions compare in terms of safety, trust, services, and regulation, while also outlining their roles in economic development?",
+        "sub_narratives": [
+            {
+                "text": "What caused Silicon Valley Bank to fail?",
+                "importance": "vital"
+            },
+            {
+                "text": "What hidden risks do investors face with banks?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do banks compare to credit unions in safety?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do banks and credit unions differ in trust?",
+                "importance": "okay"
+            },
+            {
+                "text": "How are banks regulated compared to credit unions?",
+                "importance": "okay"
+            },
+            {
+                "text": "What services do credit unions offer?",
+                "importance": "okay"
+            },
+            {
+                "text": "What services do banks offer?",
+                "importance": "okay"
+            },
+            {
+                "text": "What roles do banks play in economic development?",
+                "importance": "vital"
+            },
+            {
+                "text": "What roles do credit unions play in economic development?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "224",
+        "narrative": "I want to understand why people immigrate or become refugees, the challenges they face, and how laws and different groups shape immigration policies. Additionally, I'm interested in how various countries and religions view immigrants, and what options migrant workers have to improve their lives.",
+        "sub_narratives": [
+            {
+                "text": "Main reasons for immigration and refugee movement",
+                "importance": "vital"
+            },
+            {
+                "text": "Major challenges faced by immigrants",
+                "importance": "vital"
+            },
+            {
+                "text": "How laws shape immigration policies",
+                "importance": "vital"
+            },
+            {
+                "text": "Role of social and political groups in immigration policy",
+                "importance": "okay"
+            },
+            {
+                "text": "How countries view immigrants",
+                "importance": "okay"
+            },
+            {
+                "text": "How religions view immigrants",
+                "importance": "okay"
+            },
+            {
+                "text": "Options available for migrant workers to improve lives",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "477",
+        "narrative": "I'm trying to understand the concept of race: how it's defined, debated as a social construct, and viewed differently in the U.S. versus Brazil. I also want to learn what modern science says, why Critical Race Theory faces objections, and how racial ideas affect college admissions and social outcomes.",
+        "sub_narratives": [
+            {
+                "text": "How is race defined in society?",
+                "importance": "vital"
+            },
+            {
+                "text": "How is race debated as a social construct?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do perceptions of race differ between the U.S. and Brazil?",
+                "importance": "vital"
+            },
+            {
+                "text": "What does modern science say about biological race?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why do some people object to Critical Race Theory?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does race affect college admissions?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do racial concepts influence social outcomes?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "971",
+        "narrative": "I'm exploring the concept of gender to see if it's viewed as a social construct and how it affects personality research and leader identity theories. I'm also curious about the role of gender, especially women, in shaping the social aspect of PESTLE analysis.",
+        "sub_narratives": [
+            {
+                "text": "Is gender viewed as a social construct?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does gender shape personality research?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does gender influence leader identity theories?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is the role of gender in the social aspect of PESTLE analysis?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do women specifically impact the social factors in PESTLE analysis?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "225",
+        "narrative": "I'm exploring how exposure to violent video games and gory content affects human aggression, desensitization, and addiction. I'm also interested in the broader causes of aggression in both children and adults, the positive sides of gaming, and the historical background of these media trends.",
+        "sub_narratives": [
+            {
+                "text": "How do violent video games affect human aggression, desensitization, and addiction?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does exposure to gory content affect human aggression, desensitization, and addiction?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are common causes of aggression in children?",
+                "importance": "okay"
+            },
+            {
+                "text": "What are common causes of aggression in adults?",
+                "importance": "okay"
+            },
+            {
+                "text": "Are there positive effects of playing video games?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is the history of violent media and gaming trends?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "219",
+        "narrative": "I'm interested in understanding technology's societal impact, exploring its positive and negative effects on daily life, government, and business sectors like telehealth. Could you also explain the role of technical societies and why rationing devices might be needed with technological advancements?",
+        "sub_narratives": [
+            {
+                "text": "What are the societal impact effects of technology",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the positive effects of technology on daily life",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the negative effects of technology on daily life",
+                "importance": "vital"
+            },
+            {
+                "text": "How does technology impact government operations",
+                "importance": "vital"
+            },
+            {
+                "text": "How does technology affect business sectors such as telehealth",
+                "importance": "vital"
+            },
+            {
+                "text": "What is the role of technical societies in technological advancement",
+                "importance": "vital"
+            },
+            {
+                "text": "Why might device rationing be necessary with technological advancements",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "narrative": "I'm hoping to gain a deeper understanding of how family structures, childhood experiences, and parenting styles influence children's development and well-being. Could you explain the effects of divorce, trauma, adoption, and having single or working parents, along with strategies for building strong family foundations and overcoming common challenges?",
+        "sub_narratives": [
+            {
+                "text": "How does family structures influence children's development and well-being?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does childhood experiences influence children's development and well-being?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does parenting styles influence children's development and well-being?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does divorce affect children's development?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is the impact of childhood trauma on well-being?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does adoption influence child development?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the effects of having single or working parents on children's development?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do family structures shape children's outcomes?",
+                "importance": "okay"
+            },
+            {
+                "text": "What strategies strengthen family foundations?",
+                "importance": "okay"
+            },
+            {
+                "text": "How can families overcome common challenges?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "897",
+        "narrative": "I'm trying to understand how alcohol use affects neighborhood quality of life, including genetic and gender factors in dependency. I also need to grasp the main causes, risks, and fatal consequences of alcohol and drug use, and their connection to broader community health issues.",
+        "sub_narratives": [
+            {
+                "text": "How does alcohol use affect neighborhood quality of life?",
+                "importance": "vital"
+            },
+            {
+                "text": "Which genetic factors contribute to alcohol dependency?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does gender influence alcohol dependency risk?",
+                "importance": "okay"
+            },
+            {
+                "text": "What are the main causes of alcohol and drug use?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the health risks of alcohol and drug use?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the fatal consequences of alcohol and drug use?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does substance use relate to community health problems?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "84",
+        "narrative": "I'm looking for detailed information about vaccines, including their safety, the causes of public hesitancy—especially around COVID-19—and the different types of human vaccines and their recommended schedules. I'm also interested in how vaccination affects global health, historical public health challenges, and recommendations for animal vaccinations.",
+        "sub_narratives": [
+            {
+                "text": "Are vaccines safe?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the main types of human vaccines?",
+                "importance": "vital"
+            },
+            {
+                "text": "What causes public hesitancy about COVID-19 vaccines?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the recommended vaccination schedules for humans?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does vaccination impact global health?",
+                "importance": "vital"
+            },
+            {
+                "text": "What historical challenges have vaccines faced in public health?",
+                "importance": "okay"
+            },
+            {
+                "text": "What are the recommendations for animal vaccinations?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "187",
+        "narrative": "I'm interested in learning about the ethical debate around zoos, especially how they affect animal welfare—both the positives and negatives of keeping animals in captivity. I'd also like information on their educational and conservation roles, general animal care, and specifics about places like Franklin Park Zoo.",
+        "sub_narratives": [
+            {
+                "text": "What are the main ethical arguments for and against zoos?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do zoos affect animal welfare positively?",
+                "importance": "vital"
+            },
+            {
+                "text": "What negative effects do zoos have on animal welfare?",
+                "importance": "vital"
+            },
+            {
+                "text": "What educational roles do zoos play?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do zoos participate in conservation efforts?",
+                "importance": "okay"
+            },
+            {
+                "text": "How is animal care managed in modern zoos?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is unique about Franklin Park Zoo?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "278",
+        "narrative": "I'm interested in a thorough summary of the French Revolution, covering its causes, how it began, and how it concluded. I'd also like to learn about France's journey toward democracy, especially the impact of documents like the Charter of French Liberties and thinkers like Rousseau.",
+        "sub_narratives": [
+            {
+                "text": "What were the main causes of the French Revolution?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did the French Revolution begin?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did the French Revolution end?",
+                "importance": "vital"
+            },
+            {
+                "text": "How was France's journey toward democracy?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is the significance of the Charter of French Liberties?",
+                "importance": "okay"
+            },
+            {
+                "text": "How did Rousseau's ideas help in France's democratization?",
+                "importance": "okay"
+            },
+            {
+                "text": "What role did key revolutionary documents play in democratization?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "213",
+        "narrative": "I'm looking into the Korean War to learn about its origins, how it ended, and why the US got involved, particularly in the context of Cold War strategy. I also want to understand its effects on US politics, any major errors that occurred, and how different presidents perceived the conflict.",
+        "sub_narratives": [
+            {
+                "text": "What triggered the Korean War?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did the Korean War conclude?",
+                "importance": "vital"
+            },
+            {
+                "text": "What motivated US involvement in the Korean War?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did Cold War strategy influence US actions?",
+                "importance": "vital"
+            },
+            {
+                "text": "What impact did the Korean War have on US politics?",
+                "importance": "okay"
+            },
+            {
+                "text": "What major strategic or political mistakes were made during the war?",
+                "importance": "okay"
+            },
+            {
+                "text": "How did US presidents differ in their views on the Korean War?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "394",
+        "narrative": "I'm curious about how environmental changes shape our world, especially in terms of climate change's effects on agriculture, plants, and the economy. I'm also looking to learn how shifts in land use impact ecosystems like salt marshes and wetlands, as well as how historical environmental changes, such as those in the Fertile Crescent, influenced human history.",
+        "sub_narratives": [
+            {
+                "text": "How does climate change affect agriculture?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does climate change impact plants?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does climate change influence the economy?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do land use changes affect wetlands?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do land use changes impact salt marshes?",
+                "importance": "okay"
+            },
+            {
+                "text": "How have historical environmental changes shaped human history?",
+                "importance": "vital"
+            },
+            {
+                "text": "What environmental changes occurred in the Fertile Crescent?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "515",
+        "narrative": "I'm interested in learning why cancer rates are rising, particularly among young people, and whether factors like cell phone use are connected. I’d also like up-to-date information on cancer mortality rates, including annual breast cancer deaths in the UK and the current life expectancy for lung cancer.",
+        "sub_narratives": [
+            {
+                "text": "Why are cancer rates rising among young people?",
+                "importance": "vital"
+            },
+            {
+                "text": "Is there an association between cell phone use and cancer?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the current overall cancer mortality rates?",
+                "importance": "okay"
+            },
+            {
+                "text": "How many people die from breast cancer annually in the UK?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is the current life expectancy for lung cancer patients?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "60",
+        "narrative": "I'm interested in understanding the current state of news and media, especially their crucial role in democracy. I want to explore issues like fake news, bias, and how to critically assess information, as well as ways to improve journalism.",
+        "sub_narratives": [
+            {
+                "text": "What is the role of news and media in democracy?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does fake news impact society?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is media bias and how can it be detected?",
+                "importance": "vital"
+            },
+            {
+                "text": "How can individuals critically evaluate news sources?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are strategies to improve journalism standards?",
+                "importance": "vital"
+            },
+            {
+                "text": "How to critically assess any information?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "707",
+        "narrative": "I'm trying to understand the health risks and potential dangers of various chemicals and substances, such as those found in antiperspirants, sorbitol, and organophosphate poisoning. I'd also like to know how integrating different actions at the operational level might impact health outcomes.",
+        "sub_narratives": [
+            {
+                "text": "What are the health risks and potential danger of chemicals in antiperspirants?",
+                "importance": "vital"
+            },
+            {
+                "text": "What health risks and potential danger are associated with consuming sorbitol?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is organophosphate poisoning and its symptoms?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does organophosphate poisoning affect health outcomes?",
+                "importance": "vital"
+            },
+            {
+                "text": "Which everyday chemicals pose health dangers?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does integrating operational actions impact health outcomes?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "80",
+        "narrative": "I'm exploring the current landscape and future trends of the automotive industry, focusing on car market dynamics like new and used vehicle pricing, supply challenges, and leasing. I'm also interested in the environmental impact and adoption of electric vehicles, what motivates people to buy cars, and the advantages of driverless cars.",
+        "sub_narratives": [
+            {
+                "text": "Current landscape in the automotive industry",
+                "importance": "vital"
+            },
+            {
+                "text": "Future projections for the automotive industry",
+                "importance": "vital"
+            },
+            {
+                "text": "Pricing trends for new and used vehicles",
+                "importance": "vital"
+            },
+            {
+                "text": "Factors affecting car supply",
+                "importance": "okay"
+            },
+            {
+                "text": "Trends in car leasing",
+                "importance": "okay"
+            },
+            {
+                "text": "Adoption rates of electric vehicles",
+                "importance": "vital"
+            },
+            {
+                "text": "Environmental effects of electric vehicles",
+                "importance": "vital"
+            },
+            {
+                "text": "Main reasons people buy cars",
+                "importance": "okay"
+            },
+            {
+                "text": "Main advantages of driverless cars",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "915",
+        "narrative": "I'm interested in understanding the typical profitability and profit potential of various businesses. Could you offer a comparative overview of ventures like online supplement stores, car washes, and vending machines?",
+        "sub_narratives": [
+            {
+                "text": "What is the typical profitability of online supplement stores?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is the typical profitability of car wash businesses?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is the typical profitability of vending machine businesses?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does profitability compare among online supplement stores, car washes, and vending machines?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is the profit potential of online supplement stores?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is the profit potential of car wash businesses?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is the profit potential of vending machine businesses?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "273",
+        "narrative": "I want to understand why Africa, despite its rich resources, is often seen as underdeveloped or poor. I'm particularly interested in how factors like resource distribution, historical events, and economic changes in specific countries contribute to this perception. Additionally, I'd like basic facts such as Morocco's location, Cameroon's most important resource, and how many continents could fit inside Africa.",
+        "sub_narratives": [
+            {
+                "text": "Why is Africa often perceived as underdeveloped, despite its rich resources?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does resource distribution impact African development?",
+                "importance": "vital"
+            },
+            {
+                "text": "What major historical events shaped Africa's economy?",
+                "importance": "vital"
+            },
+            {
+                "text": "Which economic changes in specific countries contribute to this perception?",
+                "importance": "vital"
+            },
+            {
+                "text": "Where is Morocco located in Africa?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is Cameroon's most important resource?",
+                "importance": "vital"
+            },
+            {
+                "text": "How many continents could fit inside Africa?",
+                "importance": "okay"
+            },
+            {
+                "text": "How have economic changes affected African countries individually?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "140",
+        "narrative": "I'm seeking a thorough understanding of Christianity, including its historical spread, current challenges, and how society perceives it today. I'm also interested in how it compares to other religions and its impact—both historically and in modern times—especially its influence on Western culture.",
+        "sub_narratives": [
+            {
+                "text": "What are the central beliefs of Christianity?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did Christianity spread historically?",
+                "importance": "vital"
+            },
+            {
+                "text": "What major historical impacts has Christianity had?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is Christianity's influence on Western culture?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does society perceive Christianity today?",
+                "importance": "vital"
+            },
+            {
+                "text": "What challenges does Christianity face today?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does Christianity compare to other major religions?",
+                "importance": "vital"
+            },
+            {
+                "text": "How has Christianity impacted modern society?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "407",
+        "narrative": "I'm curious why housing and rent prices have soared, particularly in places like Dubai, and what broader factors contribute to the high cost of living. Furthermore, how have policies like allowing REITs to buy single-family homes and public housing demolition affected the housing market and people's renting or buying choices?",
+        "sub_narratives": [
+            {
+                "text": "What factors are driving rising housing and rent prices globally?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why are housing and rent prices especially high in Dubai?",
+                "importance": "vital"
+            },
+            {
+                "text": "What contributes to the overall increase in cost of living?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do REITs buying single-family homes affect the housing market?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is the impact of public housing demolition on housing choices?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do housing market policies influence people's rent and buying choices?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "851",
+        "narrative": "I'm curious why various 2024 elections—like the Pennsylvania primary, mayoral, council, London Assembly, and police commissioner races—are currently trending. What's behind this increased attention, and are there any common factors or broader political trends connecting them?",
+        "sub_narratives": [
+            {
+                "text": "Why are various 2024 elections currently trending?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is drawing attention to the 2024 Pennsylvania primary?",
+                "importance": "okay"
+            },
+            {
+                "text": "Why are 2024 mayoral elections being widely discussed?",
+                "importance": "okay"
+            },
+            {
+                "text": "What factors make 2024 council elections notable?",
+                "importance": "okay"
+            },
+            {
+                "text": "Why is the 2024 London Assembly election significant?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is causing increased interest in police commissioner elections in 2024?",
+                "importance": "okay"
+            },
+            {
+                "text": "Are there shared factors among these trending 2024 elections?",
+                "importance": "vital"
+            },
+            {
+                "text": "Are broader political trends linking these separate elections?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "469",
+        "narrative": "I'm interested in learning about the current state and value of higher education, especially what influences university affordability and how college degrees are viewed in the job market. I also want to know how the American college system has changed over time and why certain universities are gaining popularity now.",
+        "sub_narratives": [
+            {
+                "text": "What is the current state and value of higher education?",
+                "importance": "vital"
+            },
+            {
+                "text": "What factors influence university affordability?",
+                "importance": "vital"
+            },
+            {
+                "text": "How are college degrees perceived in the job market?",
+                "importance": "vital"
+            },
+            {
+                "text": "How has the American college system changed over time?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why are some universities gaining popularity now?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "247",
+        "narrative": "I'm looking to gain a thorough understanding of globalization, including its definition, historical context, and its effects on international trade, specialization, and the foreign sector. I’d also like to learn about its economic, cultural, and personal impacts—both positive and negative—and how businesses, especially in agribusiness management, can make the most of it.",
+        "sub_narratives": [
+            {
+                "text": "What is the definition of globalization?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is the historical background of globalization?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does globalization influence international trade?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does globalization affect economic systems?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does globalization affect foreign sector?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the cultural effects of globalization?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does globalization impact individuals' lives?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does specialization relate to globalization?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the positive and negative impacts of globalization?",
+                "importance": "okay"
+            },
+            {
+                "text": "How can businesses in agribusiness management benefit from globalization?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "231",
+        "narrative": "I want to explore nationalism's historical impact, from World War I and Balkan tensions to its evolution, including in the U.S. after 9/11. I'm also curious about its interplay with democracy and globalization, and how views on war and national identity have evolved across different contexts.",
+        "sub_narratives": [
+            {
+                "text": "What was nationalism's historical impact in World War I and Balkan tensions?",
+                "importance": "vital"
+            },
+            {
+                "text": "What was nationalism's evolution in World War I and Balkan tensions?",
+                "importance": "vital"
+            },
+            {
+                "text": "How has nationalism influenced U.S. society after 9/11?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does nationalism interact with democracy?",
+                "importance": "vital"
+            },
+            {
+                "text": "What effects has globalization had on nationalism?",
+                "importance": "vital"
+            },
+            {
+                "text": "How has nationalism shaped national identity?",
+                "importance": "okay"
+            },
+            {
+                "text": "How have attitudes toward war changed due to nationalism?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "202",
+        "narrative": "My interest lies in understanding brain function, specifically its ties to cognitive development, literacy, and how tools like EEG illuminate its plasticity. I'm keen to learn how contemporary neuroscience connects to learning, behavior, and even the brain's response to literature.",
+        "sub_narratives": [
+            {
+                "text": "How does EEG measure brain plasticity?",
+                "importance": "vital"
+            },
+            {
+                "text": "How is brain function linked to cognitive development?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does contemporary neuroscience explain learning processes?",
+                "importance": "vital"
+            },
+            {
+                "text": "In what ways is brain function connected to literacy?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does the brain respond to reading literature?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is the role of neuroscience in understanding behavior?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do neuroimaging tools like EEG study the brain?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "245",
+        "narrative": "I'm looking to better understand the main environmental challenges our planet faces, especially how human activities and climate change affect marine ecosystems. I'm particularly interested in the causes and impacts of issues like coral reef decline, ocean acidification, harmful algal blooms, and habitat fragmentation, as well as the importance of conservation efforts like marine protected areas.",
+        "sub_narratives": [
+            {
+                "text": "What are the main environmental challenges facing the planet?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do human activities impact marine ecosystems?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does climate change affect marine ecosystems?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are causes and impacts of coral reef decline?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are causes and impacts of ocean acidification on marine life?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are harmful algal blooms and their effects?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does habitat fragmentation affect marine organisms?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is the importance of marine protected areas for conservation?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "847",
+        "narrative": "I want to understand the core arguments for and against banning animal testing. This includes why it's considered unethical and harmful, as well as the reasons some believe it should not be prohibited.",
+        "sub_narratives": [
+            {
+                "text": "What are the main arguments for banning animal testing?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the main arguments against banning animal testing?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why is animal testing considered unethical?",
+                "importance": "vital"
+            },
+            {
+                "text": "What forms of harm are caused to animals in testing?",
+                "importance": "vital"
+            },
+            {
+                "text": "What benefits are claimed by supporters of animal testing?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "55",
+        "narrative": "I'm interested in how gender roles, stereotypes, and socialization shape differences between men and women across health, work, and society. I'd also like to understand how gender inequality develops, its effects on various genders, and how cultural factors like media, patriarchy, and ethnicity contribute to these disparities.",
+        "sub_narratives": [
+            {
+                "text": "How do gender roles shape differences between genders across health, work, and society?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do gender stereotypes shape differences between genders across health, work, and society?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does gender socialization contribute to gender differences across health, work, and society?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the main causes of gender inequality?",
+                "importance": "vital"
+            },
+            {
+                "text": "What effects does gender inequality have on different genders?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does media perpetuate gender stereotypes?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does patriarchy contribute to gender inequality?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does ethnicity intersect with gender disparities?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "102",
+        "narrative": "I'm seeking detailed information about the Black Death, including its features, believed causes, and treatments. I'm also interested in how it affected European society, culture, and art, how it ended, and its lasting impact on public health.",
+        "sub_narratives": [
+            {
+                "text": "What caused the Black Death?",
+                "importance": "vital"
+            },
+            {
+                "text": "What were the main symptoms of the Black Death?",
+                "importance": "vital"
+            },
+            {
+                "text": "What treatments were used during the Black Death?",
+                "importance": "okay"
+            },
+            {
+                "text": "How did the Black Death end?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did the Black Death affect European society?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did the Black Death influence European culture and art?",
+                "importance": "okay"
+            },
+            {
+                "text": "What were the long-term effects on public health?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "467",
+        "narrative": "I'm keen to understand what extinction means for animals, why certain species like the whooping crane and cheetah are endangered, and how human activities, particularly illegal hunting, contribute to this. I'm also curious if humans could be considered an invasive or even an endangered species.",
+        "sub_narratives": [
+            {
+                "text": "What does extinction mean for animals?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do human activities contribute to animal endangerment?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does illegal hunting affect endangered species and contribute to it?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why is the whooping crane endangered?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why is the cheetah endangered?",
+                "importance": "vital"
+            },
+            {
+                "text": "Are humans considered an invasive species?",
+                "importance": "okay"
+            },
+            {
+                "text": "Could humans become an endangered species?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "571",
+        "narrative": "I'm trying to understand why opioids and benzodiazepines are so widely abused, and why opioid addiction is so difficult to overcome. Could you explain how the opioid crisis developed into a national issue and its overall impact on society?",
+        "sub_narratives": [
+            {
+                "text": "What causes people to abuse opioids?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why are benzodiazepines commonly misused?",
+                "importance": "okay"
+            },
+            {
+                "text": "How did the opioid crisis emerge into a national issue?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why is overcoming opioid addiction challenging?",
+                "importance": "vital"
+            },
+            {
+                "text": "What societal impacts has the opioid crisis had?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "70",
+        "narrative": "I'm eager to understand key aspects of Japanese history and culture. This includes the reasons behind the internment of Japanese Americans, Japan's transformation into a global power, and attitudes during wartime. I'm also curious about how customs like sitting positions reflect cultural values and how Japanese media, such as anime, has influenced the world.",
+        "sub_narratives": [
+            {
+                "text": "Reasons for internment of Japanese Americans",
+                "importance": "vital"
+            },
+            {
+                "text": "Key factors in Japan's rise to global power",
+                "importance": "vital"
+            },
+            {
+                "text": "Japanese attitudes during wartime",
+                "importance": "vital"
+            },
+            {
+                "text": "Cultural meaning of sitting positions in Japan",
+                "importance": "okay"
+            },
+            {
+                "text": "How Japanese customs express cultural values",
+                "importance": "vital"
+            },
+            {
+                "text": "Global influence of Japanese anime",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "983",
+        "narrative": "I'm interested in understanding the factors that affect language and communication, including how things like wearing masks have changed our interactions. I also want to explore how communication methods have evolved throughout history.",
+        "sub_narratives": [
+            {
+                "text": "List factors affecting language",
+                "importance": "vital"
+            },
+            {
+                "text": "List factors affecting communication",
+                "importance": "vital"
+            },
+            {
+                "text": "Describe ways mask-wearing changed communication",
+                "importance": "vital"
+            },
+            {
+                "text": "Outline major changes in communication methods through history",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "528",
+        "narrative": "I'm trying to understand why environmental problems are so common in developing countries and how our approaches to them have evolved. Could you also explain the profound connections between the environment, human health, and society? I'm also curious about why environmental protection is important and if it's considered a public good.",
+        "sub_narratives": [
+            {
+                "text": "What causes frequent environmental problems in developing countries?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do environmental problems impact human health?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the links between the environment and society?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why is it important to protect the environment?",
+                "importance": "vital"
+            },
+            {
+                "text": "How have methods for addressing environmental problems evolved?",
+                "importance": "vital"
+            },
+            {
+                "text": "Is environmental protection considered a public good?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "882",
+        "narrative": "I'm researching wildlife conservation, focusing on endangered species. I'm interested in understanding what 'vulnerable' means, learning about endangered cockroaches, and exploring how wind turbines affect birds of prey, as well as the positive efforts of the U.S. Fish and Wildlife Service.",
+        "sub_narratives": [
+            {
+                "text": "What does 'vulnerable' mean in conservation status?",
+                "importance": "vital"
+            },
+            {
+                "text": "Which cockroach species are classified as endangered?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do wind turbines impact birds of prey?",
+                "importance": "vital"
+            },
+            {
+                "text": "What actions does the U.S. Fish and Wildlife Service take for endangered species?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "narrative": "I'm exploring the complexities of the U.S. election system, including how the Electoral College works, what influences voter participation and choices, and the effects of election integrity issues. I'm also interested in understanding the voting process, especially how ballot access and voter registration have changed over time.",
+        "sub_narratives": [
+            {
+                "text": "How does the Electoral College work",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the main steps in the U.S. voting process",
+                "importance": "vital"
+            },
+            {
+                "text": "Which factors influence voter participation",
+                "importance": "vital"
+            },
+            {
+                "text": "What influences voter choices during elections",
+                "importance": "vital"
+            },
+            {
+                "text": "How has ballot access changed over time",
+                "importance": "okay"
+            },
+            {
+                "text": "How has voter registration evolved",
+                "importance": "okay"
+            },
+            {
+                "text": "How do election integrity issues affect outcomes",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "526",
+        "narrative": "I'm looking into the issue of rising sea levels, focusing on their causes—particularly the role of global warming—and the negative impacts they have, including economic effects. I'm also interested in learning about the government policies that are being implemented to tackle this problem.",
+        "sub_narratives": [
+            {
+                "text": "What are the main causes of rising sea levels?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does global warming contribute to sea level rise?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the negative impacts of rising sea levels?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the economic effects of rising sea levels?",
+                "importance": "okay"
+            },
+            {
+                "text": "What government policies are being implemented to tackle rising sea level?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "568",
+        "narrative": "I want to understand the positive and negative environmental impacts of human activities like oil spills, fast fashion, mining, and energy use. Real-life examples of how these actions affect the environment would also be helpful.",
+        "sub_narratives": [
+            {
+                "text": "Positive and negative environmental impacts of human activities like oil spills",
+                "importance": "vital"
+            },
+            {
+                "text": "Positive and negative environmental consequences of fast fashion",
+                "importance": "vital"
+            },
+            {
+                "text": "Positive and negative environmental effects of mining operations",
+                "importance": "vital"
+            },
+            {
+                "text": "Positive and negative environmental impact of different energy uses",
+                "importance": "vital"
+            },
+            {
+                "text": "Real-world examples of environmental harm from human actions",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "341",
+        "narrative": "I'm trying to understand why so many teachers are leaving and what contributes to the current shortage. I'd also like to know what makes teaching more challenging today, how teacher practices and philosophies evolve, and what truly sets effective teachers apart.",
+        "sub_narratives": [
+            {
+                "text": "Why are teachers leaving the profession?",
+                "importance": "vital"
+            },
+            {
+                "text": "What factors contribute to the current teacher shortage?",
+                "importance": "vital"
+            },
+            {
+                "text": "What makes teaching more challenging today?",
+                "importance": "vital"
+            },
+            {
+                "text": "How have teacher practices evolved over time?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do teacher philosophies change during a career?",
+                "importance": "okay"
+            },
+            {
+                "text": "What sets effective teachers apart from others?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "176",
+        "narrative": "I want to understand the global impact of mental health, its increasing prevalence, and how it's viewed as a social issue. Beyond that, I'm curious how mental disorder definitions and perceptions have shifted across cultures and over time, particularly for conditions like gender dysphoria.",
+        "sub_narratives": [
+            {
+                "text": "What is the global impact of mental health issues?",
+                "importance": "vital"
+            },
+            {
+                "text": "Increasing prevalence of mental health issues",
+                "importance": "vital"
+            },
+            {
+                "text": "How is mental health viewed as a social issue worldwide?",
+                "importance": "vital"
+            },
+            {
+                "text": "How have mental disorder definitions changed historically?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do perceptions of mental disorders differ across cultures?",
+                "importance": "vital"
+            },
+            {
+                "text": "How have mental disorder definitions differ across cultures?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do perceptions of mental disorders changed historically?",
+                "importance": "okay"
+            },
+            {
+                "text": "How has the perception of gender dysphoria changed over time?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "narrative": "I'm interested in how major European art movements, from the Renaissance through modern times, influenced Western art and society by transforming artistic styles, themes, and public perceptions. Additionally, I'd like to understand how art from cultures like Oceania contributed to global art history.",
+        "sub_narratives": [
+            {
+                "text": "How did major European art movements shape Western art?",
+                "importance": "vital"
+            },
+            {
+                "text": "What societal changes resulted from European art movements?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did the Renaissance transform artistic expression?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did modern European art differ from earlier periods?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did public attitudes toward art shift in Europe over time?",
+                "importance": "okay"
+            },
+            {
+                "text": "How did Oceania's art traditions influence global art history?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "503",
+        "narrative": "I want to understand what makes an effective manager and business leader, focusing on their essential qualities. Additionally, I'd like to explore how leadership coaching, especially in military contexts, enhances performance, and how personal success is measured.",
+        "sub_narratives": [
+            {
+                "text": "What qualities are essential for effective managers?",
+                "importance": "vital"
+            },
+            {
+                "text": "What defines an effective business leader?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does leadership coaching enhance leader performance?",
+                "importance": "vital"
+            },
+            {
+                "text": "How is personal success measured?",
+                "importance": "vital"
+            },
+            {
+                "text": "How is leadership coaching used in military contexts?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "323",
+        "narrative": "I'm looking for detailed information about the Crusades, including their definition, causes, outcomes, impact on Muslim factions, and whether they were justified. I’m also interested in the broader historical context, such as what contributed to the economic prosperity of Muslim empires and how the Abbasid state came to power.",
+        "sub_narratives": [
+            {
+                "text": "What were the Crusades?",
+                "importance": "vital"
+            },
+            {
+                "text": "What caused the Crusades?",
+                "importance": "vital"
+            },
+            {
+                "text": "What were the main outcomes of the Crusades?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did the Crusades affect Muslim political groups?",
+                "importance": "vital"
+            },
+            {
+                "text": "Were the Crusades justified?",
+                "importance": "okay"
+            },
+            {
+                "text": "What factors drove Muslim economic prosperity?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did the Abbasid state come to power?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "346",
+        "narrative": "I'm seeking a comprehensive understanding of juveniles in the context of crime, including their legal definition, whether they should be tried as adults, and the importance of identity protection. Additionally, I'd like to learn about the prevalence of juvenile delinquency, the distinction between discipline and punishment, and a brief clarification of juvenile idiopathic arthritis.",
+        "sub_narratives": [
+            {
+                "text": "What is the legal definition of a juvenile in crime?",
+                "importance": "vital"
+            },
+            {
+                "text": "Who qualifies as a juvenile?",
+                "importance": "okay"
+            },
+            {
+                "text": "Should juveniles be tried as adults?",
+                "importance": "vital"
+            },
+            {
+                "text": "Why is protecting juvenile identity important?",
+                "importance": "vital"
+            },
+            {
+                "text": "How prevalent is juvenile delinquency?",
+                "importance": "vital"
+            },
+            {
+                "text": "How does juvenile delinquency impact society?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is the difference between discipline and punishment?",
+                "importance": "okay"
+            },
+            {
+                "text": "What is juvenile idiopathic arthritis?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "41",
+        "narrative": "I'm seeking to understand the Industrial Revolution's beginnings, contributing factors, and how it transformed society, the economy, and migration. I also need to know about the roles of key inventions, people, and movements such as the Enlightenment and enclosure. Furthermore, I'd like to learn about its positive and negative effects.",
+        "sub_narratives": [
+            {
+                "text": "How did the Industrial Revolution begin",
+                "importance": "vital"
+            },
+            {
+                "text": "What were the main causes of the Industrial Revolution",
+                "importance": "vital"
+            },
+            {
+                "text": "How did industrialization change society",
+                "importance": "vital"
+            },
+            {
+                "text": "How did the economy change during the Industrial Revolution",
+                "importance": "vital"
+            },
+            {
+                "text": "How did the Industrial Revolution affect migration",
+                "importance": "vital"
+            },
+            {
+                "text": "What were the role of significant inventions",
+                "importance": "vital"
+            },
+            {
+                "text": "Who were key figures in the Industrial Revolution",
+                "importance": "vital"
+            },
+            {
+                "text": "What was the Enlightenment's role in the revolution",
+                "importance": "okay"
+            },
+            {
+                "text": "How did the enclosure movement influence industrialization",
+                "importance": "okay"
+            },
+            {
+                "text": "What positive and negative effects did the Industrial Revolution have",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "349",
+        "narrative": "I'm looking for detailed information about Napoleon Bonaparte, including his rise to power, military campaigns, impact on the French monarchy and global strategy, and his exile. I'm also interested in how public opinion about him changed over time, the use of 'Napoleon' in other contexts, and significant moments in French military history like the swift fall of France in WWII.",
+        "sub_narratives": [
+            {
+                "text": "Who was Napoleon Bonaparte?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did Napoleon rise to power?",
+                "importance": "vital"
+            },
+            {
+                "text": "What were Napoleon's main military campaigns?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did Napoleon affect the French monarchy?",
+                "importance": "vital"
+            },
+            {
+                "text": "What was Napoleon's influence on global military strategy?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did public opinion of Napoleon change over time?",
+                "importance": "vital"
+            },
+            {
+                "text": "What other contexts use the name 'Napoleon'?",
+                "importance": "okay"
+            },
+            {
+                "text": "significant moments in French military history",
+                "importance": "okay"
+            },
+            {
+                "text": "The swift fall of France in WWII?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "43",
+        "narrative": "I'm seeking a comprehensive overview of US slavery's history and impact, covering its origins, termination, and the struggles of abolitionists and formerly enslaved people for freedom and adaptation post-emancipation. I'd also like to know how laws, geography, and the economy shaped it, and what occurred during Reconstruction.",
+        "sub_narratives": [
+            {
+                "text": "What were the origins of slavery in the US?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did slavery end in the United States?",
+                "importance": "vital"
+            },
+            {
+                "text": "What was the significance of the Emancipation Proclamation?",
+                "importance": "vital"
+            },
+            {
+                "text": "What roles did abolitionists people play in ending slavery?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did formerly enslaved people pursue freedom after emancipation?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did federal and state laws shape slavery?",
+                "importance": "vital"
+            },
+            {
+                "text": "How did the economy influence the development of slavery?",
+                "importance": "okay"
+            },
+            {
+                "text": "How did geography affect the practice of slavery?",
+                "importance": "okay"
+            },
+            {
+                "text": "What was Reconstruction and what happened during that era?",
+                "importance": "vital"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "narrative": "I'm keen to understand China's historical, economic, and cultural evolution, including how political changes, entrepreneurship, and energy needs have shaped both its society and global relations. Could you also explain Chinese immigrants' experiences abroad, along with clarifying key cultural concepts and geographic facts?",
+        "sub_narratives": [
+            {
+                "text": "What are China's major historical milestones?",
+                "importance": "vital"
+            },
+            {
+                "text": "How has China's economy changed over time?",
+                "importance": "vital"
+            },
+            {
+                "text": "How have political changes shaped Chinese society?",
+                "importance": "vital"
+            },
+            {
+                "text": "How have cultural evolution shaped Chinese society?",
+                "importance": "vital"
+            },
+            {
+                "text": "What is the impact of entrepreneurship on China's development?",
+                "importance": "vital"
+            },
+            {
+                "text": "How have energy needs influenced China?",
+                "importance": "vital"
+            },
+            {
+                "text": "How has China interacted with the global community?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the experiences of Chinese immigrants abroad?",
+                "importance": "okay"
+            },
+            {
+                "text": "What are important cultural concepts in China?",
+                "importance": "okay"
+            },
+            {
+                "text": "What are key geographic facts about China?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "97",
+        "narrative": "I'm curious about the formation and evolution of US political parties, including the distinctions between Democrats and Republicans, the influence of third parties, and how structural elements shape competition. I also want to understand their ideological development and compare these dynamics to parties in other nations.",
+        "sub_narratives": [
+            {
+                "text": "How did the Democratic and Republican parties form and evolve?",
+                "importance": "vital"
+            },
+            {
+                "text": "What are the main differences between Democrats and Republicans?",
+                "importance": "vital"
+            },
+            {
+                "text": "How have US political party ideologies changed over time?",
+                "importance": "vital"
+            },
+            {
+                "text": "What impact have third parties had in US politics?",
+                "importance": "vital"
+            },
+            {
+                "text": "How do structural factors affect party competition in the US?",
+                "importance": "okay"
+            },
+            {
+                "text": "How do US political parties compare to those in other countries?",
+                "importance": "okay"
+            },
+            {
+                "text": "How does the ideological development differ between parties?",
+                "importance": "okay"
+            }
+        ]
+    },
+    {
+        "id": "838",
+        "narrative": "I'm looking to learn more about relationship dynamics, including how social media affects them and common challenges like long-distance relationships. I'm also interested in ways to improve communication and stability, the role of leisure activities, and how competency and image enhancement can help address social devaluation in relationships.",
+        "sub_narratives": [
+            {
+                "text": "How social media affects relationship dynamics",
+                "importance": "vital"
+            },
+            {
+                "text": "Common challenges in long-distance relationships",
+                "importance": "vital"
+            },
+            {
+                "text": "Ways to improve communication between partners",
+                "importance": "vital"
+            },
+            {
+                "text": "Methods to enhance relationship stability",
+                "importance": "vital"
+            },
+            {
+                "text": "Role of leisure activities in relationships",
+                "importance": "okay"
+            },
+            {
+                "text": "How to address social devaluation between partners",
+                "importance": "okay"
+            },
+            {
+                "text": "Strategies for personal image enhancement in a relationship",
+                "importance": "okay"
+            },
+            {
+                "text": "Improving personal competency to support relationships",
+                "importance": "okay"
+            }
+        ]
+    }
+]
